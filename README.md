@@ -14,6 +14,7 @@ itle>Page Title</title>
 <p>I have been programming for a short time, but I have been playing football for more than ten years and I have participated in many competitions.</p>
 <img src="\6baff272-211c-4e49-832a-29ec4bea2449.jpg" alt="Im football player" width="400" height="400">
 <p>I have many goals in life, but one of my biggest goals in life is to become a professional programmer and be able to produce very strong artificial intelligence like never before in the world.</p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.efinancialcareers.com%2Flu-en%2F3000629%2Fdeveloper-jobs-terrible-career&psig=AOvVaw1DPvp2DveBYRQkYYnmIfIg&ust=1612952819775000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICevdPL3O4CFQAAAAAdAAAAABAD" alt="Im football player" width="400" height="400">
 <p></p>
 <p></p>
 <p></p>
