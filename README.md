@@ -4,8 +4,7 @@
 
 <head>
 
-<t
-itle>Mohammad sadegh mousazade</title>
+<title>Mohammad sadegh mousazade</title>
 
 </head>
 
@@ -25,8 +24,6 @@ itle>Mohammad sadegh mousazade</title>
 
 <p>I have been programming for a short time, but I have been playing football for more than ten years and I have participated in many competitions.</p>
 
-<img src="\6baff272-211c-4e49-832a-29ec4bea2449.jpg" alt="Im football player" width="400" height="400">
-<img src="\12.jpg" alt="Im football player" width="400" height="400">
 <p>I played in the Iranian Football Youth League for a year and my name is registered on the official website of Iranian football, and I will leave the link here for you.</p>
 <a href="http://www.football-tehran.com/samane/i-user/1017822899/">
 محمد صادق موسی زاده - هیات فوتبال استان تهران</a>
